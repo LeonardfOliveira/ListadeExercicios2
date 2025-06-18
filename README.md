@@ -36,6 +36,4 @@ Escreva duas funções:
 ```bash
 node exercicios_avancados.js
 
-# Lista-de-Exercícios-2
-# Lista-de-Exercícios-2
-# ListadeExercicios2
+
